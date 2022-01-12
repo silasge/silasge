@@ -12,7 +12,7 @@ Outros interesses pessois envolvem Ficção Científica 4️⃣2️⃣, Terror C
 - Contato em :
     - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/silas-gen%C3%A1rio-2a502922b/)
     - 🐦 [Twitter](https://twitter.com/_silasge)
-    - 📫 [Email](silasge.lopes@gmail.com)
+    - 📫 Email: silasge.lopes@gmail.com
 - ✏️ Blog: [silasge.github.io](https://silasge.github.io) (Em construção)
 - 📄 Meu currículo pode ser encontrado [aqui](https://github.com/silasge/silasge/blob/main/curriculo.pdf)
 
