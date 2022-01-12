@@ -1,4 +1,4 @@
-![capa](https://github.com/silasge/silasge/blob/main/images/capa.png)  
+![capa](images/capa.png)  
 ## Olá! 👋
 
 Me chamo Silas Genário, sou Economista e aspirante a Cientista de Dados 😄. 
@@ -12,9 +12,9 @@ Outros interesses pessois envolvem Ficção Científica 4️⃣2️⃣, Terror C
 - Contato em :
     - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/silas-gen%C3%A1rio-2a502922b/)
     - 🐦 [Twitter](https://twitter.com/_silasge)
-    - 📫 Email: silasge.lopes@gmail.com
+    - 📫 Email: sg.lopes26@gmail.com
 - ✏️ Blog: [silasge.github.io](https://silasge.github.io) (Em construção)
-- 📄 Meu currículo pode ser encontrado [aqui](https://github.com/silasge/silasge/blob/main/curriculo.pdf)
+- 📄 Meu currículo pode ser encontrado [aqui](curriculo.pdf)
 
 
 ### Estatísticas do GitHub
