@@ -12,5 +12,5 @@ Meus interesses envolvem Estatística, Inferência Causal, Machine Learning e pr
     - [LinkedIn](https://www.linkedin.com/in/silasge/)
     - [Twitter](https://twitter.com/_silasge)
     - Email: sg.lopes26@gmail.com
-- Blog: [silasge.github.io](silasge.github.io)
+- Blog: [silasge.github.io](https://silasge.github.io/)
 - Meu currículo pode ser encontrado [aqui](curriculo.pdf)
