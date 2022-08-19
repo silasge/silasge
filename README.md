@@ -4,7 +4,7 @@
 
 Me chamo Silas Genário, sou formado em Economia e sou Cientista de Dados.
 
-Meus interesses envolvem Estatística, Inferência Causal, Machine Learning e programação em Python e R. Espero compartilhar neste blog o meu aprendizado e alguns dos meus projetos pessoais ou profissionais.
+Meus interesses envolvem Estatística, Inferência Causal, Machine Learning e programação em Python e R. Aqui é possível encontrar meus projetos pessoais e profissionais envolvendo aplicações de ciência de dados.
 
 ### Outras informações
 
@@ -14,3 +14,5 @@ Meus interesses envolvem Estatística, Inferência Causal, Machine Learning e pr
     - Email: sg.lopes26@gmail.com
 - Blog: [silasge.github.io](https://silasge.github.io/)
 - Meu currículo pode ser encontrado [aqui](curriculo.pdf)
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasge&hide=html&layout=compact&theme=buefy" />  
